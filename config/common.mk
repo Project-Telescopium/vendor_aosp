@@ -141,6 +141,7 @@ PRODUCT_SYSTEM_DEFAULT_PROPERTIES += \
 PRODUCT_PACKAGES += \
     QuickAccessWallet
 
+
 # Metro
 PRODUCT_PACKAGES += \
     Metro
@@ -148,6 +149,10 @@ PRODUCT_PACKAGES += \
 # StatusBarLyricExt
 PRODUCT_PACKAGES += \
     StatusBarLyricExt
+
+# Game space
+PRODUCT_PACKAGES += \
+    GameSpace
 
 # Gboard configuration
 PRODUCT_PRODUCT_PROPERTIES += \

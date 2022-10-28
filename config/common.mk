@@ -233,6 +233,9 @@ $(call inherit-product, vendor/aosp/config/bootanimation.mk)
 # Fonts
 $(call inherit-product, vendor/aosp/config/fonts.mk)
 
+# MiSans
+$(call inherit-product-if-exists, external/misans-fonts/fonts.mk)
+
 # GApps
 $(call inherit-product, vendor/gapps/config.mk)
 

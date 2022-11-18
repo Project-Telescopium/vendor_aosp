@@ -145,6 +145,9 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     Metro
 
+# StatusBarLyricExt
+PRODUCT_PACKAGES += \
+    StatusBarLyricExt
 
 # Gboard configuration
 PRODUCT_PRODUCT_PROPERTIES += \

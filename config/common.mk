@@ -141,11 +141,6 @@ PRODUCT_SYSTEM_DEFAULT_PROPERTIES += \
 PRODUCT_PACKAGES += \
     QuickAccessWallet
 
-
-# Metro
-PRODUCT_PACKAGES += \
-    Metro
-
 # StatusBarLyricExt
 PRODUCT_PACKAGES += \
     StatusBarLyricExt
